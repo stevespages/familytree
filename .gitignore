@@ -1,0 +1,4 @@
+*.swp
+sqlite/
+config.php
+authentication/
