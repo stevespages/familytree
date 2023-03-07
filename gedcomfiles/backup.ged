@@ -1,0 +1,2340 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS 4.2.8
+2 NAME Gramps
+1 DATE 24 OCT 2019
+2 TIME 22:48:54
+1 SUBM @SUBM@
+1 FILE /home/steve/Desktop/gramps/backup.ged
+1 COPR Copyright (c) 2019 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+1 ADDR
+0 @I0000@ INDI
+1 NAME Stephen Richard /Greig/
+2 GIVN Stephen Richard
+2 SURN Greig
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 DATE 24 JUN 1959
+2 PLAC Devonia Guest House, Yelverton, Devon, UK
+1 FAMC @F0000@
+1 SOUR @S0000@
+2 QUAY 3
+1 OBJE
+2 FORM jpeg
+2 TITL 20181205_154519
+2 FILE /home/steve/Desktop/gramps/media/20181205_154519.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:05:08
+0 @I0001@ INDI
+1 NAME Philip Guy Morland /Greig/
+2 GIVN Philip Guy Morland
+2 SURN Greig
+2 NPFX Lieutenant Commander
+1 SEX M
+1 BIRT
+2 DATE 19 JAN 1927
+1 FAMC @F0004@
+1 FAMS @F0000@
+1 OBJE
+2 FORM jpeg
+2 TITL index-portrait-photo
+2 FILE /home/steve/Desktop/gramps/media/index-portrait-photo.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL 20190827_223952
+2 FILE /home/steve/Desktop/gramps/media/20190827_223952.jpg
+1 OBJE
+2 FORM URL
+2 TITL Philip Greig's Diary as a Midshipman during the Second World War
+2 FILE www.stevespages.org.uk/pgm-greig
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 22:34:49
+0 @I0002@ INDI
+1 NAME Susan /Greig/
+2 TYPE married
+2 GIVN Susan
+2 SURN Greig
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 DATE 1929
+1 FAMC @F0011@
+1 FAMS @F0000@
+1 OBJE
+2 FORM jpeg
+2 TITL 20170414_104520
+2 FILE /home/steve/Desktop/gramps/media/20170414_104520.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL susan-20190831_110305
+2 FILE /home/steve/Desktop/gramps/media/susan-20190831_110305.jpg
+1 CHAN
+2 DATE 17 OCT 2019
+3 TIME 18:55:23
+0 @I0003@ INDI
+1 NAME Charlotte /Williams/
+2 TYPE married
+2 GIVN Charlotte
+2 SURN Williams
+1 SEX F
+1 FAMC @F0000@
+1 FAMS @F0007@
+1 FAMS @F0008@
+1 OBJE
+2 FORM jpeg
+2 TITL charlotte-greig
+2 FILE /home/steve/Desktop/gramps/media/charlotte-greig.jpeg
+1 OBJE
+2 FORM jpeg
+2 TITL 20170724_185229_001
+2 FILE /home/steve/Desktop/gramps/media/20170724_185229_001.jpg
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 11:12:12
+0 @I0004@ INDI
+1 NAME Victoria /Greig/
+2 GIVN Victoria
+2 SURN Greig
+2 NPFX Ms
+1 SEX F
+1 FAMC @F0000@
+1 FAMS @F0001@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:24:55
+0 @I0005@ INDI
+1 NAME William Robert /Greig/
+2 GIVN William Robert
+2 SURN Greig
+1 SEX M
+1 FAMC @F0000@
+1 FAMS @F0021@
+1 OBJE
+2 FORM jpeg
+2 TITL william-greig
+2 FILE /home/steve/Desktop/gramps/media/william-greig.JPG
+1 CHAN
+2 DATE 30 AUG 2019
+3 TIME 22:26:20
+0 @I0006@ INDI
+1 NAME Gregory /Cox/
+2 GIVN Gregory
+2 SURN Cox
+1 SEX M
+1 FAMS @F0001@
+1 OBJE
+2 FORM jpeg
+2 TITL 20180224_145900
+2 FILE /home/steve/Desktop/gramps/media/20180224_145900.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:35:17
+0 @I0007@ INDI
+1 NAME Georgina /Cox/
+2 TYPE married
+2 GIVN Georgina
+2 SURN Cox
+1 SEX F
+1 FAMC @F0001@
+1 FAMS @F0002@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @I0008@ INDI
+1 NAME Annabelle /Cox/
+2 GIVN Annabelle
+2 SURN Cox
+1 SEX F
+1 FAMC @F0001@
+1 FAMS @F0003@
+1 OBJE
+2 FORM jpeg
+2 TITL 20171207_180427
+2 FILE /home/steve/Desktop/gramps/media/20171207_180427.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @I0009@ INDI
+1 NAME Eleanor /Cox/
+2 GIVN Eleanor
+2 SURN Cox
+1 SEX F
+1 FAMC @F0001@
+1 OBJE
+2 FORM jpeg
+2 TITL 20180224_145900
+2 FILE /home/steve/Desktop/gramps/media/20180224_145900.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:37:10
+0 @I0010@ INDI
+1 NAME Nick /Jones/
+2 GIVN Nick
+2 SURN Jones
+1 SEX M
+1 FAMS @F0003@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @I0011@ INDI
+1 NAME Cleo /Jones/
+2 GIVN Cleo
+2 SURN Jones
+1 SEX F
+1 FAMC @F0003@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190426_082625
+2 FILE /home/steve/Desktop/gramps/media/20190426_082625.jpeg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @I0012@ INDI
+1 NAME Matt /McArdle/
+2 GIVN Matt
+2 SURN McArdle
+1 SEX M
+1 FAMS @F0002@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190512_184822
+2 FILE /home/steve/Desktop/gramps/media/20190512_184822.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @I0013@ INDI
+1 NAME Lillie /McArdle/
+2 GIVN Lillie
+2 SURN McArdle
+1 SEX F
+1 FAMC @F0002@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190512_183439
+2 FILE /home/steve/Desktop/gramps/media/20190512_183439.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @I0014@ INDI
+1 NAME Philip Humphreys /Greig/
+2 GIVN Philip Humphreys
+2 SURN Greig
+1 SEX M
+1 EVEN
+2 TYPE Life Saved By Cigarette Case
+2 DATE 1 NOV 1915
+2 PLAC Egypt, Palestine
+2 SOUR @S0001@
+3 OBJE
+4 FORM application/pdf
+4 TITL philip-humphreys-greig-roll-of-honor
+4 FILE /home/steve/Desktop/gramps/media/philip-humphreys-greig-roll-of-honor.pdf
+1 FAMC @F0009@
+1 FAMS @F0004@
+1 OBJE
+2 FORM jpeg
+2 TITL 20170414_103933
+2 FILE /home/steve/Desktop/gramps/media/20170414_103933.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL 20190827_015137
+2 FILE /home/steve/Desktop/gramps/media/20190827_015137.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL 20190827_015158
+2 FILE /home/steve/Desktop/gramps/media/20190827_015158.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL 20190827_223922
+2 FILE /home/steve/Desktop/gramps/media/20190827_223922.jpg
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 22:09:32
+0 @I0015@ INDI
+1 NAME Sylvia /Greig/
+2 TYPE married
+2 GIVN Sylvia
+2 SURN Greig
+1 SEX F
+1 FAMC @F0010@
+1 FAMS @F0004@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190831_110111-sylvia-greig
+2 FILE /home/steve/Desktop/gramps/media/20190831_110111-sylvia-greig.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL 20171202_161518
+2 FILE /home/steve/Desktop/gramps/media/20171202_161518.jpg
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:01:15
+0 @I0016@ INDI
+1 NAME Jasmine /Morris/
+2 TYPE married
+2 GIVN Jasmine
+2 SURN Morris
+1 SEX F
+1 FAMC @F0004@
+1 FAMS @F0005@
+1 OBJE
+2 FORM jpeg
+2 TITL jasmine-morris-20191017_173044
+2 FILE /home/steve/Desktop/gramps/media/jasmine-morris-20191017_173044.jpg
+1 CHAN
+2 DATE 17 OCT 2019
+3 TIME 18:22:53
+0 @I0017@ INDI
+1 NAME Phillida /Viest/
+2 TYPE married
+2 GIVN Phillida
+2 SURN Viest
+1 SEX F
+1 FAMC @F0004@
+1 FAMS @F0006@
+1 OBJE
+2 FORM jpeg
+2 TITL 20170414_104208
+2 FILE /home/steve/Desktop/gramps/media/20170414_104208.jpg
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:15:35
+0 @I0018@ INDI
+1 NAME Edward /Morris/
+2 GIVN Edward
+2 SURN Morris
+1 SEX M
+1 FAMC @F0005@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:08:14
+0 @I0019@ INDI
+1 NAME Ben /Morris/
+2 GIVN Ben
+2 SURN Morris
+1 SEX M
+1 FAMC @F0005@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:08:14
+0 @I0020@ INDI
+1 NAME Robin /Morris/
+2 GIVN Robin
+2 SURN Morris
+1 SEX M
+1 FAMC @F0005@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:08:14
+0 @I0021@ INDI
+1 NAME Terrence /Morris/
+2 GIVN Terrence
+2 SURN Morris
+1 SEX M
+1 FAMS @F0005@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:08:14
+0 @I0022@ INDI
+1 NAME Hamish /Greig/
+2 GIVN Hamish
+2 SURN Greig
+1 SEX M
+1 FAMC @F0004@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:11:28
+0 @I0023@ INDI
+1 NAME Nick /Viest/
+2 GIVN Nick
+2 SURN Viest
+1 SEX M
+1 FAMC @F0006@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:15:35
+0 @I0024@ INDI
+1 NAME Richard /Viest/
+2 GIVN Richard
+2 SURN Viest
+1 SEX M
+1 FAMC @F0006@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:15:35
+0 @I0025@ INDI
+1 NAME Nick /Viest/
+2 GIVN Nick
+2 SURN Viest
+1 SEX M
+1 FAMS @F0006@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:15:35
+0 @I0026@ INDI
+1 NAME John /Williams/
+2 GIVN John
+2 SURN Williams
+1 SEX M
+1 FAMS @F0007@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:22:51
+0 @I0027@ INDI
+1 NAME Owen /Williams/
+2 GIVN Owen
+2 SURN Williams
+1 SEX M
+1 FAMC @F0007@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:22:51
+0 @I0028@ INDI
+1 NAME Andy /Greg/
+2 GIVN Andy
+2 SURN Greg
+1 SEX M
+1 FAMS @F0008@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:25:38
+0 @I0029@ INDI
+1 NAME Henry /Greg/
+2 GIVN Henry
+2 SURN Greg
+1 SEX M
+1 FAMC @F0008@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:25:38
+0 @I0030@ INDI
+1 NAME Morland John /Greig/
+2 GIVN Morland John
+2 SURN Greig
+1 SEX M
+1 DEAT
+2 DATE JUN 1916
+1 FAMC @F0018@
+1 FAMS @F0009@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190827_224005
+2 FILE /home/steve/Desktop/gramps/media/20190827_224005.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL 20190831_175723
+2 FILE /home/steve/Desktop/gramps/media/20190831_175723.jpg
+1 OBJE
+2 FORM application/vnd.oasis.opendocument.text
+2 TITL morland-greig-killed-by-shell-herbert-algar-diary
+2 FILE /home/steve/Desktop/gramps/media/morland-greig-killed-by-shell-herbert-algar-diary.odt
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 23:36:43
+0 @I0031@ INDI
+1 NAME Kate /Greig/
+2 TYPE married
+2 GIVN Kate
+2 SURN Greig
+1 SEX F
+1 FAMS @F0009@
+1 FAMS @F0043@
+1 OBJE
+2 FORM jpeg
+2 TITL kate-humphreys-greig
+2 FILE /home/steve/Desktop/gramps/media/kate-humphreys-greig.jpeg
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 18:44:35
+0 @I0032@ INDI
+1 NAME Dorothy Elizabeth Morland /Greig/
+2 GIVN Dorothy Elizabeth Morland
+2 SURN Greig
+1 SEX F
+1 FAMC @F0009@
+1 FAMS @F0040@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190827_223915
+2 FILE /home/steve/Desktop/gramps/media/20190827_223915.jpg
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 22:45:39
+0 @I0033@ INDI
+1 NAME Charles /Greig/
+2 GIVN Charles
+2 SURN Greig
+1 SEX M
+1 FAMC @F0009@
+1 FAMS @F0025@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:57:50
+0 @I0034@ INDI
+1 NAME Kenneth /Greig/
+2 GIVN Kenneth
+2 SURN Greig
+1 SEX M
+1 FAMC @F0009@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190827_224054
+2 FILE /home/steve/Desktop/gramps/media/20190827_224054.jpg
+1 NOTE @N0022@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:03:45
+0 @I0035@ INDI
+1 NAME Dick /Greig/
+2 GIVN Dick
+2 SURN Greig
+1 SEX M
+1 FAMC @F0009@
+1 FAMS @F0023@
+1 NOTE @N0023@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:13:41
+0 @I0036@ INDI
+1 NAME Sidney Herbert /Baker/
+2 GIVN Sidney Herbert
+2 SURN Baker
+1 SEX M
+1 BIRT
+2 TYPE Reg. September 1858, Islington
+2 DATE 1858
+2 SOUR @S0002@
+1 DEAT
+2 DATE 9 JAN 1919
+1 FAMC @F0017@
+1 FAMS @F0010@
+1 RESI
+2 DATE 1901
+2 ADDR Meopham Bank House, Leigh Rd
+3 CONT Hildenborough
+3 CONT Kent
+3 CONT England
+3 ADR1 Meopham Bank House, Leigh Rd
+3 CITY Hildenborough
+3 STAE Kent
+3 CTRY England
+1 RESI
+2 DATE 1911
+2 ADDR 40 Clifton Gardens, Maida Vale
+3 CONT Paddington
+3 CONT London
+3 ADR1 40 Clifton Gardens, Maida Vale
+3 ADR2 Paddington
+3 CITY London
+2 SOUR @S0003@
+1 OBJE
+2 FORM jpeg
+2 TITL sydney-herbert-baker-christening
+2 FILE /home/steve/Desktop/gramps/media/sydney-herbert-baker-christening.jpeg
+1 OBJE
+2 FORM jpeg
+2 TITL sydney-herbert-baker-1901-census
+2 FILE /home/steve/Desktop/gramps/media/sydney-herbert-baker-1901-census.jpeg
+1 NOTE @N0027@
+1 CHAN
+2 DATE 20 OCT 2019
+3 TIME 00:40:13
+0 @I0037@ INDI
+1 NAME Anne /Savage/
+2 TYPE married
+2 GIVN Anne
+2 SURN Savage
+1 SEX F
+1 BIRT
+2 DATE 1927
+1 FAMC @F0011@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:50:35
+0 @I0038@ INDI
+1 NAME Harold Owen /Stutchbury/
+2 GIVN Harold Owen
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1874
+1 FAMC @F0029@
+1 FAMS @F0011@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190831_105223
+2 FILE /home/steve/Desktop/gramps/media/20190831_105223.jpg
+1 OBJE
+2 FORM image/png
+2 TITL harold-owen-stutchbury
+2 FILE /home/steve/Desktop/gramps/media/harold-owen-stutchbury.png
+1 CHAN
+2 DATE 17 OCT 2019
+3 TIME 18:55:39
+0 @I0039@ INDI
+1 NAME Joan Margaret /Stutchbury/
+2 TYPE married
+2 GIVN Joan Margaret
+2 SURN Stutchbury
+1 SEX F
+1 BIRT
+2 DATE 1899
+1 FAMC @F0013@
+1 FAMS @F0011@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190831_110111-joan-stutchbury
+2 FILE /home/steve/Desktop/gramps/media/20190831_110111-joan-stutchbury.jpg
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:47:49
+0 @I0040@ INDI
+1 NAME John Peter /Hudson/
+2 GIVN John Peter
+2 SURN Hudson
+2 NICK Gumpty
+1 SEX M
+1 BIRT
+2 DATE 1858
+1 DEAT
+2 DATE 1945
+1 FAMC @F0012@
+1 FAMS @F0013@
+1 NOTE @N0000@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0041@ INDI
+1 NAME Robert /Hudson/
+2 GIVN Robert
+2 SURN Hudson
+1 SEX M
+1 FAMS @F0012@
+1 NOTE @N0001@
+1 NOTE @N0037@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:57
+0 @I0042@ INDI
+1 NAME Sarah /Hudson/
+2 GIVN Sarah
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0012@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0043@ INDI
+1 NAME Oliver /Hudson/
+2 GIVN Oliver
+2 SURN Hudson
+1 SEX M
+1 FAMC @F0012@
+1 NOTE @N0002@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0044@ INDI
+1 NAME Frank /Hudson/
+2 GIVN Frank
+2 SURN Hudson
+1 SEX M
+1 FAMC @F0012@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0045@ INDI
+1 NAME Robert /Hudson/
+2 GIVN Robert
+2 SURN Hudson
+2 NICK Bob
+1 SEX M
+1 FAMC @F0012@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0046@ INDI
+1 NAME Tom /Hudson/
+2 GIVN Tom
+2 SURN Hudson
+1 SEX M
+1 FAMC @F0012@
+1 FAMS @F0032@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0047@ INDI
+1 NAME Amy /Hudson/
+2 GIVN Amy
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0012@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0048@ INDI
+1 NAME Alicia /Swan/
+2 GIVN Alicia
+2 SURN Swan
+1 SEX F
+1 BIRT
+2 DATE 1858
+1 FAMC @F0038@
+1 FAMS @F0013@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:50:56
+0 @I0049@ INDI
+1 NAME Dorothy /Hudson/
+2 GIVN Dorothy
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0013@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @I0050@ INDI
+1 NAME Roger /Hudson/
+2 GIVN Roger
+2 SURN Hudson
+1 SEX M
+1 FAMC @F0013@
+1 FAMS @F0026@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @I0051@ INDI
+1 NAME Judith /Hudson/
+2 GIVN Judith
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0013@
+1 NOTE @N0003@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @I0052@ INDI
+1 NAME Alexander /Hudson/
+2 GIVN Alexander
+2 SURN Hudson
+1 SEX M
+1 FAMC @F0013@
+1 NOTE @N0004@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @I0053@ INDI
+1 NAME Roland Cecil /Hudson/
+2 GIVN Roland Cecil
+2 SURN Hudson
+2 NICK Roy
+1 SEX M
+1 FAMC @F0013@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @I0054@ INDI
+1 NAME Edith Monica /Hudson/
+2 GIVN Edith Monica
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0013@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @I0055@ INDI
+1 NAME Lorna Mary Caroline /Hudson/
+2 GIVN Lorna Mary Caroline
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0013@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @I0057@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F0016@
+1 NOTE @N0006@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 15:34:20
+0 @I0058@ INDI
+1 NAME Hugh /Stutchbury/
+2 GIVN Hugh
+2 SURN Stutchbury
+1 SEX M
+1 FAMC @F0029@
+1 FAMS @F0015@
+1 NOTE @N0007@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:44:51
+0 @I0059@ INDI
+1 NAME Lucy /Stutchbury/
+2 GIVN Lucy
+2 SURN Stutchbury
+1 SEX F
+1 FAMC @F0029@
+1 NOTE @N0008@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:44:51
+0 @I0060@ INDI
+1 NAME Vivian //
+2 GIVN Vivian
+1 SEX F
+1 FAMS @F0015@
+1 NOTE @N0009@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 15:28:54
+0 @I0061@ INDI
+1 NAME Joan /Stutchbury/
+2 GIVN Joan
+2 SURN Stutchbury
+1 SEX F
+1 FAMC @F0015@
+1 NOTE @N0010@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 15:28:54
+0 @I0062@ INDI
+1 NAME Shiela /Stutchbury/
+2 GIVN Shiela
+2 SURN Stutchbury
+1 SEX F
+1 FAMC @F0015@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 15:28:54
+0 @I0063@ INDI
+1 NAME Brian /Stutchbury/
+2 GIVN Brian
+2 SURN Stutchbury
+1 SEX M
+1 FAMC @F0015@
+1 NOTE @N0011@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 15:28:54
+0 @I0065@ INDI
+1 NAME Helen Gertrude /Baker/
+2 TYPE married
+2 GIVN Helen Gertrude
+2 SURN Baker
+2 NICK Nellie
+1 SEX F
+1 BIRT
+2 DATE ABT 1868
+2 PLAC Cheltenham, Gloucestershire
+2 SOUR @S0002@
+1 FAMC @F0022@
+1 FAMS @F0010@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 18:50:51
+0 @I0066@ INDI
+1 NAME Phyllis Yvonne Marion /Baker/
+2 GIVN Phyllis Yvonne Marion
+2 SURN Baker
+1 SEX F
+1 BIRT
+2 DATE ABT 1892
+2 PLAC Cheltenham, Gloucestershire
+1 FAMC @F0010@
+1 FAMS @F0035@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:12:36
+0 @I0067@ INDI
+1 NAME Guy Talbot /Baker/
+2 GIVN Guy Talbot
+2 SURN Baker
+1 SEX M
+1 BIRT
+2 DATE 1896
+2 PLAC London, England
+2 SOUR @S0002@
+1 DEAT
+2 DATE 7 JAN 1916
+2 PLAC Mesopotamia (Iraq)
+2 SOUR @S0002@
+1 FAMC @F0010@
+1 OBJE
+2 FORM application/pdf
+2 TITL BRENCHLEY-guy-talbot-baker
+2 FILE /home/steve/Desktop/gramps/media/BRENCHLEY-guy-talbot-baker.pdf
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 22:16:54
+0 @I0068@ INDI
+1 NAME Benjamin /Baker/
+2 GIVN Benjamin
+2 SURN Baker
+1 SEX M
+1 BIRT
+2 DATE ABT 1824
+2 PLAC Exeter, Devon
+2 SOUR @S0002@
+1 FAMS @F0017@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:32:49
+0 @I0069@ INDI
+1 NAME Jane /Baker/
+2 TYPE married
+2 GIVN Jane
+2 SURN Baker
+1 SEX F
+1 BIRT
+2 DATE ABT 1832
+2 PLAC Lambeth, Surrey
+2 SOUR @S0002@
+1 FAMS @F0017@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:32:49
+0 @I0070@ INDI
+1 NAME Jane /Baker/
+2 GIVN Jane
+2 SURN Baker
+1 SEX F
+1 BIRT
+2 DATE ABT 1855
+2 SOUR @S0002@
+1 FAMC @F0017@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:32:49
+0 @I0071@ INDI
+1 NAME Charles Percy /Baker/
+2 GIVN Charles Percy
+2 SURN Baker
+1 SEX M
+1 BIRT
+2 DATE ABT 1867
+2 SOUR @S0002@
+1 DEAT
+2 DATE 17 APR 1901
+2 PLAC Meopham Bank House, Leigh Rd, Hildenborough, kent
+2 SOUR @S0002@
+1 FAMC @F0017@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:32:49
+0 @I0072@ INDI
+1 NAME John Peter MacMorland /Greig/
+2 GIVN John Peter MacMorland
+2 SURN Greig
+1 SEX M
+1 FAMC @F0019@
+1 FAMS @F0018@
+1 OBJE
+2 FORM jpeg
+2 TITL john-peter-morland-greig
+2 FILE /home/steve/Desktop/gramps/media/john-peter-morland-greig.jpeg
+1 CHAN
+2 DATE 20 OCT 2019
+3 TIME 00:09:02
+0 @I0073@ INDI
+1 NAME Ann Lydia /Greig/
+2 TYPE married
+2 GIVN Ann Lydia
+2 SURN Greig
+2 NICK Annie
+1 SEX F
+1 BIRT
+2 DATE 1837
+2 PLAC Erith, Kent
+1 DEAT
+2 DATE 5 SEP 1926
+2 PLAC Kent
+1 FAMC @F0041@
+1 FAMS @F0018@
+1 OBJE
+2 FORM jpeg
+2 TITL ann-lidia-greig
+2 FILE /home/steve/Desktop/gramps/media/ann-lidia-greig.jpeg
+1 OBJE
+2 FORM jpeg
+2 TITL ann-lidia-greig-1904
+2 FILE /home/steve/Desktop/gramps/media/ann-lidia-greig-1904.jpeg
+1 OBJE
+2 FORM jpeg
+2 TITL annies-garden-the-twaite
+2 FILE /home/steve/Desktop/gramps/media/annies-garden-the-twaite.jpeg
+1 OBJE
+2 FORM jpeg
+2 TITL annies-garden-the-twaite-1901
+2 FILE /home/steve/Desktop/gramps/media/annies-garden-the-twaite-1901.jpeg
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 23:41:55
+0 @I0074@ INDI
+1 NAME Ebenezer /Greig/
+2 GIVN Ebenezer
+2 SURN Greig
+1 SEX M
+1 BIRT
+2 DATE ABT 1770
+2 SOUR @S0005@
+1 DEAT
+2 DATE ABT 1830
+2 PLAC Camden, London
+2 SOUR @S0005@
+1 FAMC @F0042@
+1 FAMS @F0019@
+1 CHAN
+2 DATE 20 OCT 2019
+3 TIME 00:29:40
+0 @I0075@ INDI
+1 NAME Isabella /Greig/
+2 TYPE married
+2 GIVN Isabella
+2 SURN Greig
+1 SEX F
+1 FAMS @F0019@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:51:28
+0 @I0076@ INDI
+1 NAME Gill /Greig/
+2 TYPE married
+2 GIVN Gill
+2 SURN Greig
+1 SEX F
+1 FAMS @F0021@
+1 OBJE
+2 FORM jpeg
+2 TITL gill-greig
+2 FILE /home/steve/Desktop/gramps/media/gill-greig.JPG
+1 CHAN
+2 DATE 30 AUG 2019
+3 TIME 22:26:20
+0 @I0077@ INDI
+1 NAME Samuel /Long/
+2 GIVN Samuel
+2 SURN Long
+1 SEX M
+1 FAMS @F0022@
+1 NOTE @N0019@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 19:10:26
+0 @I0078@ INDI
+1 NAME Diana /Greig/
+2 TYPE married
+2 GIVN Diana
+2 SURN Greig
+1 SEX F
+1 FAMS @F0023@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:53:22
+0 @I0079@ INDI
+1 NAME Heather /Greig/
+2 TYPE married
+2 GIVN Heather
+2 SURN Greig
+1 SEX F
+1 FAMC @F0023@
+1 FAMS @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0080@ INDI
+1 NAME Rodney /Berger/
+2 GIVN Rodney
+2 SURN Berger
+1 SEX M
+1 FAMS @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0081@ INDI
+1 NAME  /Berger/
+2 SURN Berger
+1 SEX M
+1 FAMC @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0082@ INDI
+1 NAME  /Berger/
+2 SURN Berger
+1 SEX F
+1 FAMC @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0083@ INDI
+1 NAME  /Berger/
+2 SURN Berger
+1 SEX F
+1 FAMC @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0084@ INDI
+1 NAME Elsie /Greig/
+2 TYPE married
+2 GIVN Elsie
+2 SURN Greig
+1 SEX F
+1 FAMS @F0025@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:57:50
+0 @I0085@ INDI
+1 NAME Ian /Greig/
+2 GIVN Ian
+2 SURN Greig
+1 SEX M
+1 FAMC @F0025@
+1 NOTE @N0021@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 18:42:03
+0 @I0086@ INDI
+1 NAME Betty /Hudson/
+2 TYPE married
+2 GIVN Betty
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0028@
+1 FAMS @F0026@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @I0087@ INDI
+1 NAME Vanessa Hamilton /Craggs/
+2 TYPE married
+2 GIVN Vanessa Hamilton
+2 SURN Craggs
+1 SEX F
+1 FAMC @F0026@
+1 FAMS @F0027@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:06
+0 @I0088@ INDI
+1 NAME Christopher /Craggs/
+2 GIVN Christopher
+2 SURN Craggs
+1 SEX M
+1 FAMS @F0027@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:06
+0 @I0089@ INDI
+1 NAME Giles /Craggs/
+2 GIVN Giles
+2 SURN Craggs
+1 SEX M
+1 FAMC @F0027@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:56
+0 @I0090@ INDI
+1 NAME  /Bisset/
+2 SURN Bisset
+1 SEX M
+1 FAMS @F0028@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @I0091@ INDI
+1 NAME  /Murray/
+2 SURN Murray
+1 SEX F
+1 FAMS @F0028@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @I0092@ INDI
+1 NAME George Frederick /Stutchbury/
+2 GIVN George Frederick
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 28 NOV 1844
+2 PLAC London, England
+1 DEAT
+2 DATE 19 AUG 1934
+2 PLAC Hampton Hill, Greater London
+2 SOUR @S0006@
+1 FAMC @F0030@
+1 FAMS @F0029@
+1 OBJE
+2 FORM jpeg
+2 TITL george-frederick-stutchbury
+2 FILE /home/steve/Desktop/gramps/media/george-frederick-stutchbury.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL george-frederick-stutchbury-20191017_172705
+2 FILE /home/steve/Desktop/gramps/media/george-frederick-stutchbury-20191017_172705.jpg
+1 NOTE @N0024@
+1 NOTE @N0036@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:04:06
+0 @I0093@ INDI
+1 NAME Olivia /Stutchbury/
+2 TYPE married
+2 GIVN Olivia
+2 SURN Stutchbury
+1 SEX F
+1 FAMS @F0029@
+1 NOTE @N0035@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:47:25
+0 @I0094@ INDI
+1 NAME Henry Rome /Stutchbury/
+2 GIVN Henry Rome
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 7 JAN 1796
+1 DSCR Naturalist
+2 SOUR @S0005@
+1 FAMC @F0031@
+1 FAMS @F0030@
+1 NOTE @N0043@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 21:02:19
+0 @I0095@ INDI
+1 NAME Mary /Stutchbury/
+2 TYPE married
+2 GIVN Mary
+2 SURN Stutchbury
+1 SEX F
+1 FAMS @F0030@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:27:05
+0 @I0096@ INDI
+1 NAME Joseph /Stutchbury/
+2 GIVN Joseph
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 30 NOV 1769
+1 DEAT
+2 DATE 24 JUN 1810
+1 FAMC @F0044@
+1 FAMS @F0031@
+1 NOTE @N0040@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:10:46
+0 @I0097@ INDI
+1 NAME Hanna /Smith/
+2 GIVN Hanna
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE 1773
+1 FAMS @F0031@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:16:06
+0 @I0098@ INDI
+1 NAME Alethea Matheson /Hudson/
+2 TYPE married
+2 GIVN Alethea Matheson
+2 SURN Hudson
+1 SEX F
+1 FAMS @F0032@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:35:30
+0 @I0099@ INDI
+1 NAME Noel /Hudson/
+2 GIVN Noel
+2 SURN Hudson
+1 SEX M
+1 FAMC @F0032@
+1 NOTE @N0026@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:36:42
+0 @I0100@ INDI
+1 NAME Elizabeth Grace /Gordon-Lennox/
+2 TYPE married
+2 GIVN Elizabeth Grace
+2 SURN Gordon-Lennox
+1 SEX F
+1 FAMC @F0032@
+1 FAMS @F0033@
+1 OBJE
+2 FORM jpeg
+2 TITL elizabeth-grace-gordon-lennox
+2 FILE /home/steve/Desktop/gramps/media/elizabeth-grace-gordon-lennox.jpg
+1 CHAN
+2 DATE 10 SEP 2019
+3 TIME 22:22:19
+0 @I0101@ INDI
+1 NAME Frederick /Gordon-Lennox/
+2 GIVN Frederick
+2 SURN Gordon-Lennox
+1 SEX M
+1 FAMS @F0033@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:56:27
+0 @I0102@ INDI
+1 NAME Charles Henry /Gordon-Lennox/
+2 GIVN Charles Henry
+2 SURN Gordon-Lennox
+1 SEX M
+1 FAMC @F0033@
+1 FAMS @F0034@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:56:02
+0 @I0103@ INDI
+1 NAME Nicholas Charles /Gordon-Lennox/
+2 GIVN Nicholas Charles
+2 SURN Gordon-Lennox
+1 SEX M
+1 FAMC @F0033@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:56:40
+0 @I0104@ INDI
+1 NAME Susan Monica /Gordon-Lennox/
+2 TYPE married
+2 GIVN Susan Monica
+2 SURN Gordon-Lennox
+1 SEX F
+1 FAMS @F0034@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:55:37
+0 @I0105@ INDI
+1 NAME Charles /Gordon-Lennox/
+2 GIVN Charles
+2 SURN Gordon-Lennox
+1 SEX M
+1 FAMC @F0034@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:55:37
+0 @I0106@ INDI
+1 NAME Arthur Charles Champion /Rawlins/
+2 GIVN Arthur Charles Champion
+2 SURN Rawlins
+1 SEX M
+1 FAMC @F0036@
+1 FAMS @F0035@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:16:59
+0 @I0107@ INDI
+1 NAME Charles Champion /Rawlins/
+2 GIVN Charles Champion
+2 SURN Rawlins
+1 SEX M
+1 FAMS @F0036@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:16:59
+0 @I0108@ INDI
+1 NAME Mary McGregor /Jones/
+2 GIVN Mary McGregor
+2 SURN Jones
+1 SEX F
+1 FAMS @F0036@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:16:59
+0 @I0109@ INDI
+1 NAME Francis Champion /Rawlins/
+2 GIVN Francis Champion
+2 SURN Rawlins
+1 SEX M
+1 FAMC @F0036@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:16:59
+0 @I0110@ INDI
+1 NAME Glenoran Edward Champion /Rawlins/
+2 GIVN Glenoran Edward Champion
+2 SURN Rawlins
+1 SEX M
+1 FAMC @F0036@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:16:59
+0 @I0111@ INDI
+1 NAME Guy Vernon Champion /Rawlins/
+2 GIVN Guy Vernon Champion
+2 SURN Rawlins
+1 SEX M
+1 FAMC @F0036@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:16:59
+0 @I0112@ INDI
+1 NAME Richard Seymour Champion /Rawlins/
+2 GIVN Richard Seymour Champion
+2 SURN Rawlins
+1 SEX M
+1 FAMC @F0036@
+1 FAMS @F0037@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:19:08
+0 @I0113@ INDI
+1 NAME Yvonne Blanche /Andrews/
+2 GIVN Yvonne Blanche
+2 SURN Andrews
+1 SEX F
+1 FAMS @F0037@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:19:08
+0 @I0114@ INDI
+1 NAME Colin Guy Champion /Rawlins/
+2 GIVN Colin Guy Champion
+2 SURN Rawlins
+1 SEX M
+1 FAMC @F0037@
+1 NOTE @N0028@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:19:08
+0 @I0115@ INDI
+1 NAME  /Swan/
+2 SURN Swan
+1 SEX M
+1 FAMS @F0038@
+1 NOTE @N0030@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:38:16
+0 @I0116@ INDI
+1 NAME  /Cookson/
+2 SURN Cookson
+1 SEX F
+1 FAMS @F0038@
+1 NOTE @N0031@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:38:16
+0 @I0117@ INDI
+1 NAME Oswald /Swan/
+2 GIVN Oswald
+2 SURN Swan
+1 SEX M
+1 FAMC @F0038@
+1 NOTE @N0032@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:38:16
+0 @I0118@ INDI
+1 NAME Florey /Swan/
+2 GIVN Florey
+2 SURN Swan
+1 SEX F
+1 FAMC @F0038@
+1 NOTE @N0033@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:38:16
+0 @I0119@ INDI
+1 NAME Alic /Cumming/
+2 GIVN Alic
+2 SURN Cumming
+1 SEX M
+1 FAMS @F0039@
+1 NOTE @N0034@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:39:55
+0 @I0120@ INDI
+1 NAME  /Hudson/
+2 TYPE married
+2 SURN Hudson
+1 SEX F
+1 FAMS @F0012@
+1 NOTE @N0038@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @I0121@ INDI
+1 NAME John Arthur Mallock /Bond/
+2 GIVN John Arthur Mallock
+2 SURN Bond
+1 SEX M
+1 FAMS @F0040@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 22:45:39
+0 @I0122@ INDI
+1 NAME Julian Morland Mallock /Bond/
+2 GIVN Julian Morland Mallock
+2 SURN Bond
+1 SEX M
+1 FAMC @F0040@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 22:45:39
+0 @I0123@ INDI
+1 NAME Josephine Morland Mallock /Bond/
+2 GIVN Josephine Morland Mallock
+2 SURN Bond
+1 SEX F
+1 FAMC @F0040@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 22:45:39
+0 @I0124@ INDI
+1 NAME Charles /Beadle/
+2 GIVN Charles
+2 SURN Beadle
+1 SEX M
+1 FAMS @F0041@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 23:41:55
+0 @I0125@ INDI
+1 NAME Lydia /Clayton/
+2 GIVN Lydia
+2 SURN Clayton
+1 SEX F
+1 FAMS @F0041@
+1 OBJE
+2 FORM jpeg
+2 TITL lidia-clayton
+2 FILE /home/steve/Desktop/gramps/media/lidia-clayton.jpeg
+1 CHAN
+2 DATE 20 OCT 2019
+3 TIME 00:04:10
+0 @I0126@ INDI
+1 NAME William /Greig/
+2 GIVN William
+2 SURN Greig
+1 SEX M
+1 BIRT
+2 DATE 1775
+2 PLAC Scotland
+1 FAMS @F0042@
+1 CHAN
+2 DATE 20 OCT 2019
+3 TIME 00:27:00
+0 @I0127@ INDI
+1 NAME Margaret /Ritchie/
+2 GIVN Margaret
+2 SURN Ritchie
+1 SEX F
+1 FAMS @F0042@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 23:57:36
+0 @I0128@ INDI
+1 NAME Kate /Workman/
+2 TYPE married
+2 GIVN Kate
+2 SURN Workman
+1 SEX F
+1 FAMC @F0025@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 18:42:03
+0 @I0129@ INDI
+1 NAME Tony /Workman/
+2 GIVN Tony
+2 SURN Workman
+1 SEX M
+1 FAMS @F0043@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 18:44:35
+0 @I0130@ INDI
+1 NAME Phillida /Workman/
+2 GIVN Phillida
+2 SURN Workman
+1 SEX F
+1 FAMC @F0043@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 18:44:35
+0 @I0131@ INDI
+1 NAME Joseph Sydney /Stutchbury/
+2 GIVN Joseph Sydney
+2 SURN Stutchbury
+1 SEX M
+1 FAMC @F0031@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:01:29
+0 @I0132@ INDI
+1 NAME Samuel /Stutchbury/
+2 GIVN Samuel
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1798
+2 PLAC Bristol
+1 FAMC @F0031@
+1 FAMS @F0049@
+1 OBJE
+2 FORM image/png
+2 TITL samuel-stutchbury-portrait
+2 FILE /home/steve/Desktop/gramps/media/samuel-stutchbury-portrait.png
+1 OBJE
+2 FORM application/pdf
+2 TITL anh.1993.20.1.69
+2 FILE /home/steve/Desktop/gramps/media/anh.1993.20.1.69.pdf
+1 NOTE @N0041@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 22:36:10
+0 @I0133@ INDI
+1 NAME William /Stutchbury/
+2 GIVN William
+2 SURN Stutchbury
+1 SEX M
+1 FAMC @F0030@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:04:06
+0 @I0134@ INDI
+1 NAME Emma /Stutchbury/
+2 GIVN Emma
+2 SURN Stutchbury
+1 SEX F
+1 FAMC @F0030@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:04:06
+0 @I0135@ INDI
+1 NAME Harry /Stutchbury/
+2 GIVN Harry
+2 SURN Stutchbury
+1 SEX M
+1 FAMC @F0030@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:04:06
+0 @I0136@ INDI
+1 NAME John /Stutchbury/
+2 GIVN John
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1745
+1 FAMC @F0046@
+1 FAMS @F0044@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:22:11
+0 @I0137@ INDI
+1 NAME Mary /Stutchbury/
+2 TYPE married
+2 GIVN Mary
+2 SURN Stutchbury
+1 SEX F
+1 FAMS @F0044@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:08:06
+0 @I0138@ INDI
+1 NAME James /Stutchbury/
+2 GIVN James
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1740
+1 FAMC @F0044@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:10:46
+0 @I0139@ INDI
+1 NAME Peter /Stutchbury/
+2 GIVN Peter
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1735
+1 FAMC @F0044@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:10:46
+0 @I0140@ INDI
+1 NAME Anthony /Stutchbury/
+2 GIVN Anthony
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1671
+1 FAMS @F0045@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:12:16
+0 @I0141@ INDI
+1 NAME Mary /Wright/
+2 GIVN Mary
+2 SURN Wright
+1 SEX F
+1 BIRT
+2 DATE 1675
+1 FAMS @F0045@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:12:16
+0 @I0142@ INDI
+1 NAME James /Stutchbury/
+2 GIVN James
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1715
+1 FAMC @F0047@
+1 FAMS @F0046@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:25:31
+0 @I0143@ INDI
+1 NAME Peter /Stutchbury/
+2 GIVN Peter
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1735
+1 FAMC @F0046@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:22:11
+0 @I0144@ INDI
+1 NAME James /Stutchbury/
+2 GIVN James
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1740
+1 FAMC @F0046@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:22:11
+0 @I0145@ INDI
+1 NAME Anthony /Stutchbury/
+2 GIVN Anthony
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1671
+1 FAMC @F0048@
+1 FAMS @F0047@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:29:50
+0 @I0146@ INDI
+1 NAME Mary /Wright/
+2 GIVN Mary
+2 SURN Wright
+1 SEX F
+1 BIRT
+2 DATE 1675
+1 FAMS @F0047@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:25:31
+0 @I0147@ INDI
+1 NAME Anthony /Stutchbury/
+2 GIVN Anthony
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1709
+1 FAMC @F0047@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:25:31
+0 @I0148@ INDI
+1 NAME John /Stutchbury/
+2 GIVN John
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1709
+1 FAMC @F0047@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:25:31
+0 @I0149@ INDI
+1 NAME James /Stutchbury/
+2 GIVN James
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1640
+1 FAMS @F0048@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:29:50
+0 @I0150@ INDI
+1 NAME James /Stutchbury/
+2 GIVN James
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 1678
+1 DEAT
+2 DATE 1689
+1 FAMC @F0048@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:29:50
+0 @I0151@ INDI
+1 NAME Hannah Louisa /Bernard/
+2 GIVN Hannah Louisa
+2 SURN Bernard
+1 SEX F
+1 FAMS @F0049@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 22:36:10
+0 @I0152@ INDI
+1 NAME Louisa Mary /Stutchbury/
+2 GIVN Louisa Mary
+2 SURN Stutchbury
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 1822
+1 DEAT
+2 DATE 5 JUN 1893
+2 PLAC Barton Regis, Gloucestershire
+1 FAMC @F0049@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 22:36:10
+0 @F0000@ FAM
+1 HUSB @I0001@
+1 WIFE @I0002@
+1 CHIL @I0000@
+1 CHIL @I0003@
+1 CHIL @I0004@
+1 CHIL @I0005@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:05:08
+0 @F0001@ FAM
+1 HUSB @I0006@
+1 WIFE @I0004@
+1 CHIL @I0007@
+1 CHIL @I0008@
+1 CHIL @I0009@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:37:10
+0 @F0002@ FAM
+1 HUSB @I0012@
+1 WIFE @I0007@
+1 CHIL @I0013@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @F0003@ FAM
+1 HUSB @I0010@
+1 WIFE @I0008@
+1 CHIL @I0011@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @F0004@ FAM
+1 HUSB @I0014@
+1 WIFE @I0015@
+1 CHIL @I0001@
+1 CHIL @I0022@
+1 CHIL @I0017@
+1 CHIL @I0016@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:11:28
+0 @F0005@ FAM
+1 HUSB @I0021@
+1 WIFE @I0016@
+1 CHIL @I0019@
+1 CHIL @I0018@
+1 CHIL @I0020@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:08:14
+0 @F0006@ FAM
+1 HUSB @I0025@
+1 WIFE @I0017@
+1 CHIL @I0023@
+1 CHIL @I0024@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:15:35
+0 @F0007@ FAM
+1 HUSB @I0026@
+1 WIFE @I0003@
+1 CHIL @I0027@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:22:51
+0 @F0008@ FAM
+1 HUSB @I0028@
+1 WIFE @I0003@
+1 CHIL @I0029@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:25:38
+0 @F0009@ FAM
+1 HUSB @I0030@
+1 WIFE @I0031@
+1 CHIL @I0032@
+1 CHIL @I0014@
+1 CHIL @I0033@
+1 CHIL @I0034@
+1 CHIL @I0035@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 13:31:58
+0 @F0010@ FAM
+1 HUSB @I0036@
+1 WIFE @I0065@
+1 CHIL @I0015@
+1 CHIL @I0066@
+1 CHIL @I0067@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:10:20
+0 @F0011@ FAM
+1 HUSB @I0038@
+1 WIFE @I0039@
+1 CHIL @I0002@
+1 CHIL @I0037@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 14:47:31
+0 @F0012@ FAM
+1 HUSB @I0041@
+1 WIFE @I0120@
+1 CHIL @I0040@
+1 CHIL @I0042@
+1 CHIL @I0043@
+1 CHIL @I0044@
+1 CHIL @I0045@
+1 CHIL @I0046@
+1 CHIL @I0047@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 23:02:56
+0 @F0013@ FAM
+1 HUSB @I0040@
+1 WIFE @I0048@
+1 CHIL @I0049@
+1 CHIL @I0050@
+1 CHIL @I0051@
+1 CHIL @I0052@
+1 CHIL @I0053@
+1 CHIL @I0039@
+1 CHIL @I0054@
+1 CHIL @I0055@
+1 NOTE @N0029@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:09:18
+0 @F0015@ FAM
+1 HUSB @I0058@
+1 WIFE @I0060@
+1 CHIL @I0061@
+1 CHIL @I0062@
+1 CHIL @I0063@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 15:28:54
+0 @F0016@ FAM
+1 WIFE @I0057@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:27:33
+0 @F0017@ FAM
+1 HUSB @I0068@
+1 WIFE @I0069@
+1 CHIL @I0070@
+1 CHIL @I0036@
+1 CHIL @I0071@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:32:49
+0 @F0018@ FAM
+1 HUSB @I0072@
+1 WIFE @I0073@
+1 MARR
+2 DATE 2 DEC 1856
+1 CHIL @I0030@
+1 NOTE @N0018@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 23:36:43
+0 @F0019@ FAM
+1 HUSB @I0074@
+1 WIFE @I0075@
+1 CHIL @I0072@
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:51:28
+0 @F0021@ FAM
+1 HUSB @I0005@
+1 WIFE @I0076@
+1 CHAN
+2 DATE 30 AUG 2019
+3 TIME 22:26:20
+0 @F0022@ FAM
+1 HUSB @I0077@
+1 CHIL @I0065@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 18:50:51
+0 @F0023@ FAM
+1 HUSB @I0035@
+1 WIFE @I0078@
+1 CHIL @I0079@
+1 NOTE @N0020@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:53:22
+0 @F0024@ FAM
+1 HUSB @I0080@
+1 WIFE @I0079@
+1 CHIL @I0081@
+1 CHIL @I0082@
+1 CHIL @I0083@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @F0025@ FAM
+1 HUSB @I0033@
+1 WIFE @I0084@
+1 CHIL @I0085@
+1 CHIL @I0128@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 18:42:03
+0 @F0026@ FAM
+1 HUSB @I0050@
+1 WIFE @I0086@
+1 CHIL @I0087@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:17:17
+0 @F0027@ FAM
+1 HUSB @I0088@
+1 WIFE @I0087@
+1 CHIL @I0089@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:56
+0 @F0028@ FAM
+1 HUSB @I0090@
+1 WIFE @I0091@
+1 CHIL @I0086@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @F0029@ FAM
+1 HUSB @I0092@
+1 WIFE @I0093@
+1 CHIL @I0038@
+1 CHIL @I0059@
+1 CHIL @I0058@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:44:51
+0 @F0030@ FAM
+1 HUSB @I0094@
+1 WIFE @I0095@
+1 CHIL @I0092@
+1 CHIL @I0133@
+1 CHIL @I0134@
+1 CHIL @I0135@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:04:06
+0 @F0031@ FAM
+1 HUSB @I0096@
+1 WIFE @I0097@
+1 CHIL @I0094@
+1 CHIL @I0131@
+1 CHIL @I0132@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:01:29
+0 @F0032@ FAM
+1 HUSB @I0046@
+1 WIFE @I0098@
+1 CHIL @I0099@
+1 CHIL @I0100@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:36:42
+0 @F0033@ FAM
+1 HUSB @I0101@
+1 WIFE @I0100@
+1 CHIL @I0102@
+1 CHIL @I0103@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:46:46
+0 @F0034@ FAM
+1 HUSB @I0102@
+1 WIFE @I0104@
+1 CHIL @I0105@
+1 CHAN
+2 DATE 9 SEP 2019
+3 TIME 22:55:37
+0 @F0035@ FAM
+1 HUSB @I0106@
+1 WIFE @I0066@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:12:36
+0 @F0036@ FAM
+1 HUSB @I0107@
+1 WIFE @I0108@
+1 CHIL @I0109@
+1 CHIL @I0110@
+1 CHIL @I0106@
+1 CHIL @I0111@
+1 CHIL @I0112@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:16:59
+0 @F0037@ FAM
+1 HUSB @I0112@
+1 WIFE @I0113@
+1 CHIL @I0114@
+1 CHAN
+2 DATE 12 SEP 2019
+3 TIME 23:19:08
+0 @F0038@ FAM
+1 HUSB @I0115@
+1 WIFE @I0116@
+1 CHIL @I0117@
+1 CHIL @I0118@
+1 CHIL @I0048@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:38:16
+0 @F0039@ FAM
+1 HUSB @I0119@
+1 CHAN
+2 DATE 15 OCT 2019
+3 TIME 22:39:55
+0 @F0040@ FAM
+1 HUSB @I0121@
+1 WIFE @I0032@
+1 MARR
+2 DATE 1923
+1 CHIL @I0122@
+1 CHIL @I0123@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 22:45:39
+0 @F0041@ FAM
+1 HUSB @I0124@
+1 WIFE @I0125@
+1 CHIL @I0073@
+1 CHAN
+2 DATE 19 OCT 2019
+3 TIME 23:41:55
+0 @F0042@ FAM
+1 HUSB @I0126@
+1 WIFE @I0127@
+1 MARR
+2 DATE 31 JUL 1791
+2 PLAC Methven, Perth, Scotland
+1 CHIL @I0074@
+1 CHAN
+2 DATE 20 OCT 2019
+3 TIME 00:29:40
+0 @F0043@ FAM
+1 HUSB @I0129@
+1 WIFE @I0031@
+1 CHIL @I0130@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 18:44:35
+0 @F0044@ FAM
+1 HUSB @I0136@
+1 WIFE @I0137@
+1 CHIL @I0096@
+1 CHIL @I0138@
+1 CHIL @I0139@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:10:46
+0 @F0045@ FAM
+1 HUSB @I0140@
+1 WIFE @I0141@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:12:16
+0 @F0046@ FAM
+1 HUSB @I0142@
+1 CHIL @I0143@
+1 CHIL @I0144@
+1 CHIL @I0136@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:22:11
+0 @F0047@ FAM
+1 HUSB @I0145@
+1 WIFE @I0146@
+1 CHIL @I0147@
+1 CHIL @I0148@
+1 CHIL @I0142@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:25:31
+0 @F0048@ FAM
+1 HUSB @I0149@
+1 CHIL @I0145@
+1 CHIL @I0150@
+1 NOTE @N0042@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 20:29:50
+0 @F0049@ FAM
+1 HUSB @I0132@
+1 WIFE @I0151@
+1 MARR
+2 DATE 2 AUG 1820
+2 PLAC St Giles, Cripplegate
+1 CHIL @I0152@
+1 CHAN
+2 DATE 24 OCT 2019
+3 TIME 22:36:10
+0 @S0000@ SOUR
+1 TITL Interview with Stephen Richard Greig
+1 AUTH Stephen Richard Greig
+1 CHAN
+2 DATE 24 AUG 2019
+3 TIME 20:33:13
+0 @S0001@ SOUR
+1 TITL Roll of Honour Pembroke College, Oxford
+1 OBJE
+2 FORM application/pdf
+2 TITL philip-humphreys-greig-roll-of-honor
+2 FILE /home/steve/Desktop/gramps/media/philip-humphreys-greig-roll-of-honor.pdf
+1 CHAN
+2 DATE 27 AUG 2019
+3 TIME 01:15:49
+0 @S0002@ SOUR
+1 TITL http://wyndhammarsh.co.uk/genealogy
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 22:43:28
+0 @S0003@ SOUR
+1 TITL 1911 Census
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 22:49:02
+0 @S0004@ SOUR
+1 TITL www.masonicgreatwarproject.org.uk
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:40:57
+0 @S0005@ SOUR
+1 TITL www.geni.com
+1 CHAN
+2 DATE 28 AUG 2019
+3 TIME 23:45:57
+0 @S0006@ SOUR
+1 TITL https://www.geni.com/people/George-Stutchbury/6000000029076838021
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:18:54
+0 @N0000@ NOTE Known as Gumpty by Susan Greig
+0 @N0001@ NOTE Came from Billingford, Norfolk
+0 @N0002@ NOTE Eldest Son
+0 @N0003@ NOTE Died (probably of meningitis) at about 3 years old according to Sus
+1 CONC an Greig
+0 @N0004@ NOTE Died (approx in his twenties) according to Susan Greig
+0 @N0005@ NOTE Chief Accountant at the Bank of England
+0 @N0006@ NOTE Surname could have been Grace and could be related to W.G.Grace th
+1 CONC e cricketer
+0 @N0007@ NOTE Died in middle age.
+1 CONT Fought in African Regiment in Kenya in WW1
+0 @N0008@ NOTE Brought up her brother (Hugh's) children as he died young. Had no c
+1 CONC hildren herself.
+0 @N0009@ NOTE Neice of Jim Corbett a big game hunter known as the Carpet (sound
+1 CONC s like Corbett) Sarb. Biography exists
+0 @N0010@ NOTE Lived in Kenya
+0 @N0011@ NOTE Lived in Rhodesia
+0 @N0012@ NOTE Maiden name might have been Harvey. Related to the Sherry people po
+1 CONC ssibly. Known by some as 'a tartar'. All according to Susan Greig
+0 @N0013@ NOTE Letter was not sent but found in his box when he came home.
+0 @N0014@ NOTE Other side of the letter he wrote to him mother but did not send.
+0 @N0015@ NOTE December 1900 (written on back of photo)
+0 @N0016@ NOTE Letter sent to his wife, Kate, informing her of his death in Gallip
+1 CONC oli during WW1
+0 @N0017@ NOTE Philip (smiling) and Phillida
+0 @N0018@ NOTE 1st Royal North Devon Hussars. Action: Gallipoli
+0 @N0019@ NOTE Wrote a letter to his daughter, Helen Gertrude Baker (Nellie) for h
+1 CONC er birthday (Aug 23rd?) with address Gloucester
+0 @N0020@ NOTE Wedding at the Dorchester. Philip Greig was a page boy and Phillid
+1 CONC a Greig bride's maid.
+0 @N0021@ NOTE Had about 8 children. Lived mainly in Australia
+0 @N0022@ NOTE Was in French internment camp in WW2 at Laghouat (1942 and possibl
+1 CONC y before and after). There is a photo of him there with Lt Comm. hare.
+1 CONT 
+1 CONT After the war he died young of cancer and suffered great pain. Philip Gr
+1 CONC eig (as a boy) had to help restrain him in his fits of agony. His docto
+1 CONC r was Dr Boyle who was having an affair with Joan Margaret Stutchbury.
+0 @N0023@ NOTE Came back to England from India at the start of WW2 but told to ret
+1 CONC urn to help the war effort there. On the way back his ship was attacke
+1 CONC d and he died. His daughter with his wife Diana was called Heather. Dian
+1 CONC a brought Heather up with Charles Greig (Dick's brother) who lived wit
+1 CONC h Heather after his brother, Dick's, death.
+0 @N0024@ NOTE Chief Accountant at the Bank of England
+0 @N0025@ NOTE Naturalist according to https://www.geni.com/people/George-Stutchbu
+1 CONC ry/6000000029076838021
+0 @N0026@ NOTE became a bishop
+0 @N0027@ NOTE Recorded as living at Radclive Grange in the parish of Radclive-cum
+1 CONC -Chackmore on his Son Guy Talbot's entry on the war memorial at St John'
+1 CONC s Church at Radclive.
+0 @N0028@ NOTE Director of Zoos
+0 @N0029@ NOTE Alicia Swan's mother went to be governess to John Peter Hudson. Aft
+1 CONC er some time Alicia and John Peter were married
+0 @N0030@ NOTE From Morpeth in Northumberland. Rumoured to be a layabout.
+0 @N0031@ NOTE Went to be governess to John Peter Hudson taking her three children
+1 CONC , Oswald, Florey and Alicia.
+0 @N0032@ NOTE Died young of drink.
+0 @N0033@ NOTE Went to live with batchelor uncle in Morpeth presumably before marr
+1 CONC ying Alic Cumming.
+0 @N0034@ NOTE Was rich and paid for his sister in law's (Alicia Swann) education.
+0 @N0035@ NOTE Olive's maiden name was Harvey from the Bristol sherry family. Thou
+1 CONC ght to have died before 1929
+0 @N0036@ NOTE His father may have been Samuel Stutchbury, curator of Bristol Muse
+1 CONC um. Possibly related to a parson in Gloucesteshire who was related to W.
+1 CONC G. Grace, the cricketeer...
+0 @N0037@ NOTE May have been illegitimate son of Earl of Leicester (from Norfolk
+1 CONC ) and a maid with surname of Hudson.
+0 @N0038@ NOTE Blind. Known as Granny Hudson
+0 @N0039@ NOTE Jasmine before going on holiday to Malta with her brother Philip.
+0 @N0040@ NOTE Rule maker.
+0 @N0041@ NOTE Naturalist and geologist. See wikipedia
+0 @N0042@ NOTE St Dunstan, Stepney
+0 @N0043@ NOTE Naturalist. At some point worked with his brother Samuel. Went bank
+1 CONC rupt?
+0 TRLR
